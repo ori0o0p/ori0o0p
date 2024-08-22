@@ -1,10 +1,12 @@
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ori0o0p"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/ori0o0p"
+    width="1000"
+    height="200"
+  />
 </a>
+  
 
 > Tech Stack
 
