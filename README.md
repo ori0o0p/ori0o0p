@@ -22,7 +22,15 @@
     height="150"
   />
 </a>
-  
+
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/sumi-0011?pet-id=1"
+    width="1000"
+    height="150"
+  />
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daemawiki&repo=claude&show_owner=true)](https://github.com/daemawiki/claude)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-Repo&repo=Whopper&show_owner=true)](https://github.com/DSM-Repo/Whopper)
