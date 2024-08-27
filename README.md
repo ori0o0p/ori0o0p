@@ -5,10 +5,10 @@
   "location": "Republic of Korea",
   "skills": ["Java", "Kotlin", "Spring Boot", "Spring WebFlux", "Reactor", "MongoDB", "MySQL"],
   "contact": {
+    "tel": "010-2977-8517",
     "email": ["tmddnjsrla99@gmail.com", "tmddnjs001133@dsm.hs.kr"],
     "linkedin": "https://linkedin.com/in/ori0o0p",
-    "github": "https://github.com/ori0o0p",
-    "tel": "010-2977-8517"
+    "github": "https://github.com/ori0o0p"
   }
 }
 ```
