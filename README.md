@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/sumi-0011?pet-id=1"
+    src="https://render.gitanimals.org/lines/sumi-0011"
     width="1000"
     height="150"
   />
