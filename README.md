@@ -28,3 +28,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-Repo&repo=Whopper&show_owner=true)](https://github.com/DSM-Repo/Whopper)
 <p/>
 <aside/>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ori0o0p"
+  width="100"
+  height="100"
+/>
+</a>
