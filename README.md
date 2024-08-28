@@ -18,12 +18,12 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/ori0o0p?pet-id=595845716176040776"
-    width="500"
+    width="260"
     height="150"
   />
   <img
     src="https://render.gitanimals.org/lines/sumi-0011"
-    width="500"
+    width="260"
     height="150"
   />
 </a>
