@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/sevng_won/" target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/user-attachments/assets/80783059-9f75-4e8e-9260-ef619dec83ab" alt="김승원 먹이주기"/>
+  <img src="https://github.com/user-attachments/assets/b1410750-90c0-411a-a805-7bb5bdb08f73" alt="김승원 먹이주기"/>
 </a>
 
 ``` json
