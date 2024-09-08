@@ -1,21 +1,8 @@
+![image](https://github.com/user-attachments/assets/efe80afd-2d9f-4f11-a34e-17e65b1b7737)
+
 <a href="https://www.instagram.com/sevng_won/" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/fc93c57e-bdad-4b62-b6b4-3170436cf90f" alt="김승원 먹이주기"/>
 </a>
-
-``` json
-{
-  "name": "Kim Seung Won",
-  "title": "Backend Developer",
-  "location": "Republic of Korea",
-  "skills": ["Java", "Kotlin", "Spring Boot", "Spring WebFlux", "Reactor", "MongoDB", "MySQL"],
-  "contact": {
-    "tel": "010-2977-8517",
-    "email": ["tmddnjsrla99@gmail.com", "tmddnjs001133@dsm.hs.kr"],
-    "linkedin": "https://linkedin.com/in/ori0o0p",
-    "github": "https://github.com/ori0o0p"
-  }
-}
-```
 
 <aside>
 <p align="center">
