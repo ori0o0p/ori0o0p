@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efe80afd-2d9f-4f11-a34e-17e65b1b7737)
+![image](https://github.com/user-attachments/assets/dc580904-e405-4c9b-a187-9042ca7f1f23)
 
 <a href="https://www.instagram.com/sevng_won/" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/8c87f280-e6d2-46be-84d6-5d2ab58b7b73" alt="김승원 먹이주기"/>
@@ -13,8 +13,5 @@
     height="200"
   />
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daemawiki&repo=claude&show_owner=true)](https://github.com/daemawiki/claude)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-Repo&repo=Whopper&show_owner=true)](https://github.com/DSM-Repo/Whopper)
 <p/>
 <aside/>
