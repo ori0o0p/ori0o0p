@@ -1,7 +1,3 @@
-<a href="https://www.instagram.com/sevng_won/" target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/user-attachments/assets/e9dde8ec-4439-4256-9559-edd35f90c77e" alt="김승원 먹이주기"/>
-</a>
-
 <aside>
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
