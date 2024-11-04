@@ -3,7 +3,7 @@
 |
   <a href="https://usadapekora.notion.site/1303c1533f0d8029a623fae894567bf4">Resume</a>
 |
-  <a href="">Portfolio</a>
+  <a href="">Portfolio</a>
 </h2>
 
 <aside>
