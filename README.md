@@ -1,5 +1,5 @@
 <h2>
-  <a href="https://seungwon-portfolio.netlify.app/">Portfolio</a>
+  <a href="https://seungwon-portfolio.netlify.app/">Page</a>
 |
   <a href="https://usadapekora.notion.site/1303c1533f0d8029a623fae894567bf4">Resume</a>
 </h2>
