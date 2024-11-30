@@ -1,6 +1,13 @@
-<h1>
-  <a href="https://seungwon-portfolio.netlify.app">Seung Won Portfolio. </a>
-</h1>
+
+<aside>
+  <p>
+    <h1>
+      <a href="https://seungwon-portfolio.netlify.app">Seung Won Portfolio. </a>
+      (◕ ‿ ◕)
+      <a href="https://read.cv/seungwon">Seung Won Resume. </a>
+    </h1>
+  </p>
+</aside>
 
 <aside>
 <p align="center">
