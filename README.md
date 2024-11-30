@@ -1,7 +1,7 @@
 
 <aside>
   <p>
-    <h1>
+    <h1 align="center">
       <a href="https://seungwon-portfolio.netlify.app">Seung Won Portfolio. </a>
       (◕ ‿ ◕)
       <a href="https://read.cv/seungwon">Seung Won Resume. </a>
