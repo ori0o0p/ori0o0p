@@ -4,7 +4,7 @@
       {
         <a href="https://seungwon-portfolio.netlify.app">Seung Won Portfolio. </a>
         (◕ ‿ ◕)
-        <a href="https://read.cv/seungwon">Seung Won Resume. </a>
+        <a href="https://read.cv/main">Seung Won Resume. </a>
       }
     </h1>
   </p>
