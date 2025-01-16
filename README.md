@@ -22,3 +22,13 @@
 </a>
 <p/>
 <aside/>
+
+## Open Source Contributions
+
+### 2025
+- **Redis/lettuce** - #3061
+
+### 2024
+- **kestra-io/kestra** - #6073
+
+- **velog-io/velog** - #49
