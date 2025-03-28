@@ -4,7 +4,7 @@
       {
         <a href="https://seungwon-portfolio.netlify.app">Seung Won Portfolio. </a>
         (◕ ‿ ◕)
-        <a href="https://read.cv/main">Seung Won Resume. </a>
+        <a href="https://www.dsm-repo.com/resume_viewer/66dc4344fcaf9157ccc2e3fd">Seung Won Resume. </a>
       }
     </h1>
   </p>
