@@ -32,3 +32,18 @@
 - **kestra-io/kestra** - #6073
 
 - **velog-io/velog** - #49
+
+## Projects
+
+- [Daemawiki](https://github.com/Daemawiki) - DSM Wiki Service
+
+- [REPO](https://github.com/DSM-Repo) - DSM Resume Platform
+
+- [Awack](https://github.com/A-wack) - DSM Wake-up Song Request Service
+
+- [FOUNDERZ](https://github.com/teamFOUNDERZ) - Youth Startup Support Platform
+
+- [MMMetrics](https://github.com/MMMetrics) - Unofficial Tiktok API Wrapper with GraphQL
+
+- [HHH](https://github.com/Hurts-Hearts-Healing) - AI-powered Breakup Recovery Assistant
+
