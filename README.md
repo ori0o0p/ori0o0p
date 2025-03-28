@@ -35,11 +35,11 @@
 
 ## Projects
 
-- [Daemawiki](https://github.com/Daemawiki) - DSM Wiki Service
+- [Daemawiki](https://github.com/Daemawiki) - Daedeok Software Meister High School Wiki Service
 
-- [REPO](https://github.com/DSM-Repo) - DSM Resume Platform
+- [REPO](https://github.com/DSM-Repo) - Daedeok Software Meister High School Resume Platform
 
-- [Awack](https://github.com/A-wack) - DSM Wake-up Song Request Service
+- [Awack](https://github.com/A-wack) - Daedeok Software Meister High School Wake-up Song Request Service
 
 - [FOUNDERZ](https://github.com/teamFOUNDERZ) - Youth Startup Support Platform
 
