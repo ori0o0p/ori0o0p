@@ -47,3 +47,5 @@
 
 - [HHH](https://github.com/Hurts-Hearts-Healing) - AI-powered Breakup Recovery Assistant
 
+- [SPiCa](https://github.com/spica-io) - Netty Based In-Memory Database Server
+
