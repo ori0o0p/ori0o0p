@@ -26,8 +26,8 @@
 ## Open Source Contributions
 
 ### 2025
-- **Redis/lettuce** - #3261
-- **Redis/lettuce** - #3061
+- **redis/lettuce** - #3261
+- **redis/lettuce** - #3061
 
 ### 2024
 - **kestra-io/kestra** - #6073
