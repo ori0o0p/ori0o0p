@@ -31,7 +31,6 @@
 
 ### 2024
 - **kestra-io/kestra** - #6073
-
 - **velog-io/velog** - #49
 
 ## Projects
