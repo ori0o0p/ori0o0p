@@ -26,7 +26,7 @@
 ## Open Source Contributions
 
 ### 2025
-- **redis/lettuce** - #3261
+- **redis/lettuce** - #3262
 - **redis/lettuce** - #3061
 
 ### 2024
