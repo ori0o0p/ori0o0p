@@ -25,13 +25,13 @@
 
 ## Open Source Contributions
 
-### 2025
-- **redis/lettuce** - #3262
-- **redis/lettuce** - #3061
+- 2025.04.23 **redis/lettuce** - #3262
+  
+- 2025.01.06 **redis/lettuce** - #3061
 
-### 2024
-- **kestra-io/kestra** - #6073
-- **velog-io/velog** - #49
+- 2024.11.25 **kestra-io/kestra** - #6073
+
+- 2024.10.08 **velog-io/velog** - #49
 
 ## Projects
 
