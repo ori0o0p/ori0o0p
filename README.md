@@ -2,7 +2,7 @@
   <p>
     <h1 align="center">
       {
-        <a href="https://seungwon-portfolio.notion.site/">Seung Won Portfolio. </a>
+        <a href="https://seungwon.me/">Seung Won Portfolio. </a>
         (◕ ‿ ◕)
         <a href="https://www.dsm-repo.com/resume_viewer/66dc4344fcaf9157ccc2e3fd">Seung Won Resume. </a>
       }
