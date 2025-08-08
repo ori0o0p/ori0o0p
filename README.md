@@ -1,5 +1,7 @@
 #### Personal Domain
+
 - portfolio : [**seungwon.me**](https://seungwon.me)
+  
 - blog      : [**seungwon.tech**](https://seungwon.tech)
 
 #### Open Source Contributions
