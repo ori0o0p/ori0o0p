@@ -6,9 +6,9 @@
 
 #### Open Source Contributions
 
-- 2025.0 **[redis/lettuce](https://github.com/redis/lettuce) -** [#3266](https://github.com/redis/lettuce/pull/3266)
+- 2025.08.08 **[redis/lettuce](https://github.com/redis/lettuce) -** [#3266](https://github.com/redis/lettuce/pull/3266)
 
-- 2025.0 **[redis/lettuce](https://github.com/redis/lettuce) -** [#3264](https://github.com/redis/lettuce/pull/3264)
+- 2025.05.28 **[redis/lettuce](https://github.com/redis/lettuce) -** [#3264](https://github.com/redis/lettuce/pull/3264)
 
 - 2025.04.23 **[redis/lettuce](https://github.com/redis/lettuce) -** [#3262](https://github.com/redis/lettuce/pull/3262)
   
