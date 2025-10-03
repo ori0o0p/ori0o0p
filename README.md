@@ -1,5 +1,3 @@
-## **Premature optimization is the root of all evil**
-
 #### Personal Domain
 
 - portfolio : [**seungwon.me**](https://seungwon.me)
